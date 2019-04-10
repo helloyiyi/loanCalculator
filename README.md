@@ -1,4 +1,4 @@
-# README
+# Loan calculator
 
 A Loan Calculator implemented by Ruby on Rails
 
